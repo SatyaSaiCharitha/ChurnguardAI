@@ -16,11 +16,6 @@ An AI-powered system that predicts customer churn using machine learning techniq
 - Churn prediction
 - Accuracy analysis
 
-## Model Performance
-- Accuracy: XX%
-- Precision: XX%
-- Recall: XX%
-
 ## How to Run
 
 ```bash
